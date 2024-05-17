@@ -1,0 +1,11 @@
+
+{
+  "build": {
+    "env": {
+      "PNPM_HOME": "/root/.pnpm"
+    },
+    "commands": {
+      "build": "npm install -g pnpm@9.1.1 && pnpm install && pnpm run build"
+    }
+  }
+}
