@@ -10,3 +10,4 @@ export default {
   },
   tablesFilter: ["t3gallery_*"],
 } satisfies Config;
+
